@@ -1,2 +1,4 @@
-# github-collaboration-lab
-Hands-on GitHub collaboration tutorial
+## Project Purpose
+
+This repository is used to practice GitHub collaboration,
+including branching, merging, and conflict resolution.
